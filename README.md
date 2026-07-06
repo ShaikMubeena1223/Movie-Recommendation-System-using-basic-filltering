@@ -159,56 +159,43 @@ The application allows users to:
 
 ## 1️⃣ Project Structure
 
-![Project Structure](Movie%20output1.png)
-
+![Project Structure](Movieoutput1.png)
 
 ## 2️⃣ Search Movie
 
-![Workflow](Movie%20output2.png)
-
+![Workflow](Movieoutput2.png)
 
 ## 3️⃣ Search By Cast
 
-
 ![Main Menu](Movie%20output3.png)
-
 
 ## 4️⃣ View Hit Movies
 
-
 ![View All Movies](Movie%20output4.png)
-
-
 
 ## 5️⃣ View Hit Movies
 
 ![Search Movie](Movie%20output5.png)
 
-
 ## 6️⃣ View Hit Movies
 
 ![Search By Cast](Movie%20output6.png)
-
 
 ## 7️⃣ View Flop Movies
 
 ![Hit Movies](Movie%20output7.png)
 
-
 ## 8️⃣ View Flop Movies
 
 ![Flop Movies](Movie%20output8.png)
-
 
 ## 9️⃣ Search By Release Year
 
 ![Release Year](Movie%20output9.png)
 
-
 ## 🔟 Exit
 
 ![Output](Movie%20output10.png)
-
 
 # 🚀 Future Enhancements
 
