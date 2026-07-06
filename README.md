@@ -57,16 +57,16 @@ Movie-Recommendation-System/
 ├── data/
 │   └── movies.csv
 ├── images/
-│   ├── workflow.png
-│   ├── project-structure.png
-│   ├── menu.png
-│   ├── view-all-movies.png
-│   ├── search-movie.png
-│   ├── search-cast.png
-│   ├── hit-movies.png
-│   ├── flop-movies.png
-│   ├── release-year.png
-│   └── output.png
+│   ├── Project Structure.png
+│   ├── Search Movie.png
+│   ├── Search By Cast.png
+│   ├── View Hit Movies.png
+│   ├── View Hit Movies.png
+│   ├── View Hit Movies.png
+│   ├── View Hit Movies.png
+│   ├── View Flop Movies.png
+│   ├── Search By Release Year.png
+│   └── Exit.png
 └── README.md
 ```
 
