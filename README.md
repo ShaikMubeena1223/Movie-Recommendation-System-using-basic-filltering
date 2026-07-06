@@ -167,35 +167,35 @@ The application allows users to:
 
 ## 3️⃣ Search By Cast
 
-![Main Menu](Movie%20output3.png)
+![Main Menu](Movieoutput3.png)
 
 ## 4️⃣ View Hit Movies
 
-![View All Movies](Movie%20output4.png)
+![View All Movies](Movieoutput4.png)
 
 ## 5️⃣ View Hit Movies
 
-![Search Movie](Movie%20output5.png)
+![Search Movie](Movieoutput5.png)
 
 ## 6️⃣ View Hit Movies
 
-![Search By Cast](Movie%20output6.png)
+![Search By Cast](Movieoutput6.png)
 
 ## 7️⃣ View Flop Movies
 
-![Hit Movies](Movie%20output7.png)
+![Hit Movies](Movieoutput7.png)
 
 ## 8️⃣ View Flop Movies
 
-![Flop Movies](Movie%20output8.png)
+![Flop Movies](Movieoutput8.png)
 
 ## 9️⃣ Search By Release Year
 
-![Release Year](Movie%20output9.png)
+![Release Year](Movieoutput9.png)
 
 ## 🔟 Exit
 
-![Output](Movie%20output10.png)
+![Output](Movieoutput10.png)
 
 # 🚀 Future Enhancements
 
