@@ -181,7 +181,7 @@ The application allows users to:
 
 ![Search By Cast](Movieoutput6.png)
 
-## 7️⃣ View Flop Movies
+## 7️⃣ View Hit Movies
 
 ![Hit Movies](Movieoutput7.png)
 
